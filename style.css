@@ -1,5 +1,5 @@
 body {
-    background-color: #FAF0E6;
+    background-color: rgb(27, 27, 27);
     padding: 40px 500px 40px 500px;
 }
 
@@ -9,11 +9,20 @@ ul {
 }
 
 .div1 {
-    background-color: #B9B4C7;
-    border-radius: 15px;
-    padding: 15px;
-    box-shadow: 0 10px 6px #5C5470;
-    color: #352F44;
-    font-family: 'Sacramento', cursive;
+    box-shadow: 0 10px 6px #535353;
     text-align: center;
+    margin-top: 50px;
+    margin-left: 5px;
+    background: #403c40;
+    border-radius: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a {
+    color: #ffffff;
 }
