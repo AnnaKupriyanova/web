@@ -1,0 +1,34 @@
+.main_div {
+    box-shadow: 0 10px 6px #535353;
+    text-align: center;
+    margin: 50px 50px 50px 50px;
+    background: #403c40;
+    border-radius: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.divka {
+    padding-bottom: 5px;
+}
+.btn {
+    background: #605e60;
+    border-radius: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #e6e1e4;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.btn:hover {
+    background: #252424;
+    text-decoration: none;
+}
+body {
+    background-color: rgb(27, 27, 27);
+}
