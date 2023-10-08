@@ -1,6 +1,5 @@
 body {
     background-color: rgb(27, 27, 27);
-    padding: 40px 500px 40px 500px;
 }
 
 ul {
@@ -11,8 +10,7 @@ ul {
 .div1 {
     box-shadow: 0 10px 6px #535353;
     text-align: center;
-    margin-top: 50px;
-    margin-left: 5px;
+    margin: 50px auto 50px auto;
     background: #403c40;
     border-radius: 50px;
     font-family: 'Montserrat', sans-serif;
@@ -21,6 +19,7 @@ ul {
     padding: 25px;
     text-decoration: none;
     font-weight: bold;
+    width: 400px;
 }
 
 a {

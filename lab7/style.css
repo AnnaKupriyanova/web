@@ -1,7 +1,7 @@
 .main_div {
     box-shadow: 0 10px 6px #535353;
     text-align: center;
-    margin: 50px 50px 50px 50px;
+    margin: 50px auto 50px auto;
     background: #403c40;
     border-radius: 50px;
     font-family: 'Montserrat', sans-serif;
@@ -10,6 +10,7 @@
     padding: 25px;
     text-decoration: none;
     font-weight: bold;
+    width: 300px;
 }
 .divka {
     padding-bottom: 5px;
